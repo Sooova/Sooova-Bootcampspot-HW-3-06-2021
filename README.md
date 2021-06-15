@@ -1,11 +1,11 @@
-#Sooova-Bootcampspot-HW-3-06-2021#
+# Sooova-Bootcampspot-HW-3-06-2021 #
 
-#The Task#
+# The Task #
 This week's homework task was to create a javascript applet that generates a random 8 string password. 
 While doing this assignement i went through a lot of interations that were either not working, or were crashing my DevTools for some reason. 
 I finally settled on the solution i have currently.
 
-#Notes#
+# Notes #
 I had an issue/confusion as to why i could not call:
 passwordText.value = password;
 and instead i had to:
